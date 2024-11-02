@@ -1,6 +1,6 @@
 # ssh configuration for connecting to my server
 
-Host ed_server
+Host zed_server
    HostName 54.221.3.158
    User ubuntu
    IdentityFile ~/.ssh/school
